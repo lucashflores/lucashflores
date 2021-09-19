@@ -1,6 +1,6 @@
 # Heya there, I'm Lucas :wave:
 
-### A brazillian student that just got into programming and is interested in a variety of things.
+### Computer Engineering student at UTFPR
 
 - :books: I’m currently learning C# and SQL
 - 💬 Ask me about C
