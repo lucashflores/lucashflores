@@ -1,7 +1,7 @@
 # Heya there, I'm Lucas :wave:
 
-### Computer Engineering student at UTFPR
-<br />
+### Computer Engineering student at UTFPR <br/>
+
 ### Technologies 💻
 - :books: I’m currently learning JavaScript
 - 💬 Ask me about C and C++
