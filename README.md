@@ -11,5 +11,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### How to reach me 📫
-[![Gmail Badge](https://img.shields.io/badge/-lucas.henrique.flores2001@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucas.henrique.flores2001@gmail.com) <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Henrique%20Flores-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucashflores)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucas.henrique.flores2001@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucashflores)
