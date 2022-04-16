@@ -1,4 +1,4 @@
-# Heya there, I'm Lucas :wave:
+# Hey there, I'm Lucas :wave:
 
 ### Computer Engineering student at UTFPR <br/>
 
