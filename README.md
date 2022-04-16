@@ -8,8 +8,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashflores&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies 💻
-- :books: I’m currently learning JavaScript
-- 💬 Ask me about C and C++
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### How to reach me 📫
 [![Gmail Badge](https://img.shields.io/badge/-lucas.henrique.flores2001@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucas.henrique.flores2001@gmail.com) <br/>
