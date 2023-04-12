@@ -1,6 +1,7 @@
 # Hey there, I'm Lucas :wave:
 
 ### Computer Engineering student at UTFPR <br/>
+### Apple Developer Academy Student PUCPR <br/>
 
 ### Technologies 💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
