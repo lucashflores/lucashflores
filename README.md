@@ -1,14 +1,28 @@
 # Hey there, I'm Lucas :wave:
-<div align="center">
+<div>
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucashflores&layout=compact)
-  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.henrique.flores2001@gmail.com) 
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashflores)
+
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<div align=center>
+  <a href="https://github.com/forestileao">
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=lucashflores&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashflores&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 ## 🏅 Codewars
 <a href="https://www.codewars.com/users/lucashflores/stats"><img src="https://www.codewars.com/users/lucashflores/badges/large"></a>
+
+## 👨‍🎓 About Me
+- 📚 Computer Enginnering student at Universidade Tecnologica Federal do Paraná.
+- 🍎 Scholarship student at Apple Developer Academy PUCPR.
+- ⛵ Part-time Full-Stack developer at Sumersoft Tecnologia.
+- 💙 Passionate about back-end development and currently studying iOS development at the Apple Developer Academy.
+- 🔭 I’m looking forward to studying GO for back-end and learning more about Big Data and ML tools.
+- 📫 How to reach me: [lucas.henrique.flores2001@gmail.com][mail] or [Linkedin][linkedin].
 
 ## 💻 Technologies I have experience with
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,5 +38,4 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ## 📫 Reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.henrique.flores2001@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashflores)
+
