@@ -7,6 +7,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🏅 Codewars
+<a href="https://www.codewars.com/users/lucashflores/stats"><img src="https://www.codewars.com/users/lucashflores/badges/large"></a>
+
 ## 💻 Technologies I have experience with
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
