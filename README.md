@@ -20,9 +20,9 @@
 - 📚 Computer Enginnering student at Universidade Tecnologica Federal do Paraná.
 - 🍎 Scholarship student at Apple Developer Academy PUCPR.
 - 🐦 Swift Student Challenge 2024 Winner
-- ⛵ Part-time Data Engineer at Driva.
+- ⛵ Software Engineer at Driva.
 - 💙 Passionate about back-end development and currently studying iOS development at the Apple Developer Academy.
-- 🔭 I’m looking forward to studying GO for back-end and learning more about Big Data and ML tools.
+- 🔭 I’m looking forward to studying GO, Rust and Solidity.
 - 📫 How to reach me: [lucas.henrique.flores2001@gmail.com][mail] or [Linkedin][linkedin].
 
 ## 💻 Technologies
