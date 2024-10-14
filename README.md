@@ -19,7 +19,7 @@
 ## 👨‍🎓 About Me
 - 📚 Computer Enginnering student at Universidade Tecnologica Federal do Paraná.
 - 🍎 Scholarship student at Apple Developer Academy PUCPR.
-- 🐦 Swift Student Challenge 2024 Winner
+- 🐦 Apple WWDC 2024 Winner
 - ⛵ Software Engineer at Driva.
 - 💙 Passionate about back-end development and currently studying iOS development at the Apple Developer Academy.
 - 🔭 I’m looking forward to studying GO, Rust and Solidity.
