@@ -21,7 +21,6 @@
 - 🍎 Scholarship student at Apple Developer Academy PUCPR.
 - 🐦 Apple WWDC 2024 Winner
 - ⛵ Software Engineer at Driva.
-- 💙 Passionate about back-end development and currently studying iOS development at the Apple Developer Academy.
 - 🔭 I’m looking forward to studying GO, Rust and Solidity.
 - 📫 How to reach me: [lucas.henrique.flores2001@gmail.com][mail] or [Linkedin][linkedin].
 
